@@ -32,9 +32,9 @@ This project is a React-based web application that dynamically routes users to d
    ```
 2. Open your browser and navigate to:
    ```bash
-   http://localhost:3000
+   http://localhost:5173
    ```
-   Modify the URL to test different subdomains, e.g., `http://dev.localhost:3000`.
+   Modify the URL to test different subdomains, e.g., `http://dev.localhost:5173`.
 
 ## Project Structure
 
